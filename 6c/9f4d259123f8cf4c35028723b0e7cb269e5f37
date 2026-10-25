@@ -1,0 +1,14 @@
+packages/app/resources/strings.json
+  h_1a6b0cc05bf029 1283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6c9f4d259123f8cf4c35028723b0e7cb269e5f37",
+  "prompts": {},
+  "humans": {
+    "h_1a6b0cc05bf029": {
+      "author": "Anne Douwe Bouma <ad.bouma@247kooi.com>"
+    }
+  }
+}
